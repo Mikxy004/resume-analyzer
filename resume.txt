@@ -1,0 +1,75 @@
+OKIKIJESU OLADIMEJI
+Senior Product Designer
++234 907 578 3540 | theokikijesuoladimeji@gmail.com | LinkedIn | Airport Road, FCT, Abuja
+Summary
+Innovative Lead Product Designer and Senior UX/UI specialist with 5+ years of experience crafting user-
+centered digital products across web and mobile platforms. As an expert in end-to-end product design, I
+translate business requirements into intuitive solutions using Wireframing, Prototyping, and Figma Design
+Systems. Proven leader in guiding cross-functional teams to deliver pixel-perfect designs that measurably
+boost user satisfaction and conversion rates.
+Skills
+User Research Agile & Scrum Figma & Sketch
+Usability Testing Design Systems Information Architecture
+Interaction Design AI Prompt Engineering Wireframing & Prototyping
+Experience
+Lead Product Designer August 2024 - September 2025
+Orion Industrial Resources FCT, Abuja
+Reporting directly to the Head of Product, I managed a distributed team of 4 designers and led the end-to-
+end design lifecycle for a SaaS platform serving 50k+ users. I facilitated cross-functional collaboration
+between engineering and product teams to translate complex requirements into scalable UI solutions.
+• Spearheaded UX/UI initiatives that improved user engagement by 30% YOY, surpassing the previous
+quarter’s benchmark by optimizing navigation flows and reducing click-depth for core tasks.
+• Conducted User Research and Usability Testing to inform a strategic dashboard redesign, utilizing
+data insights to lift conversion rates by 25% compared to the legacy platform's performance.
+• Established a comprehensive Design System in Figma comprising 50+ reusable components, which
+reduced design debt and improved design-to-development handoff efficiency by 50%.
+• Mentored 3 junior designers through weekly critiques and skill-building workshops, fostering a
+culture of innovation that increased the team's velocity and design output quality.
+• Translated complex design concepts into clear visual narratives for non-technical stakeholders (C-
+Suite & Sales), simplifying technical jargon to secure buy-in for major strategic features.
+• Championed accessibility standards (WCAG 2.1) across the product suite, expanding the user base
+and inclusivity while mitigating compliance risks for the organization.
+• Directed the visual overhaul of the mobile application, ensuring feature parity with the web platform
+and delivering a seamless cross-platform experience that retained 90% of mobile users.
+• Presented interactive prototypes and user journey maps to stakeholders, effectively aligning
+business goals with user needs to secure approval for a high-priority Q3 feature rollout.
+Mid-Level Product Designer July 2023 - June 2024
+Skill Street Incorporations India Remote
+Executed user-centric strategies for ed-tech products while reporting to the Senior Product Manager. I
+facilitated remote design sprints and utilized async communication tools to lead design implementation
+across global time zones, ensuring alignment between product and engineering.
+• Crafted intuitive User Interfaces and prototypes that enhanced product usability by 25%, leveraging
+rigorous user research and iterative feedback loops to identify and resolve critical friction points.
+• Collaborated in a fully remote agile environment to implement scalable Design Systems, delivering
+complex projects ahead of schedule while reducing operational costs by 15%.
+• Developed detailed wireframes and mockups that streamlined the student registration flow, directly
+contributing to a significant increase in conversion rates and reduced drop-off.
+• Analyzed user feedback and behavioral data to drive continuous UX/UI improvements, ensuring the
+product evolved to meet changing user needs and maintained high satisfaction scores.
+• Bridged the technical gap by articulating complex UX logic to non-design teams via remote
+workshops, ensuring clear understanding and alignment across product and marketing
+departments.
+Junior Product Designer March 2020 - August 2023
+Pi Technologies Incorporation Abuja, Nigeria
+Delivered responsive web designs by transforming requirements into functional experiences, playing a key
+role in wireframing, and conducting usability testing. I collaborated with senior designers to maintain
+consistency across client projects while managing tight deadlines.
+• Designed responsive User Interfaces that increased mobile traffic by 40% through best practices in
+Responsive Design, optimizing layouts for varying screen sizes and device constraints.
+• Created low-fidelity wireframes and Figma prototypes that reduced development turnaround time by
+20% by clarifying requirements and interactions early in the design process.
+• Participated in usability testing to identify pain points, leading to a 15% increase in task success
+rates for key workflows compared to previous iterations.
+• Analyzed user behavior data to inform specific UX improvements, utilizing tools like Figma to create
+efficient workflows that contributed to a 25% increase in overall user satisfaction scores.
+• Collaborated with the design team to maintain consistent Design Systems and visual guidelines,
+ensuring that all digital products maintained a cohesive brand identity and high quality.
+Education
+• National Innovative Diploma (NID) in Software Engineering
+Lincoln College, Abuja February 2024
+• Bachelor of Science (B.Sc.) in Cybersecurity
+Lincoln University College, Malaysia February 2026
+Key Competencies
+• Research: User Testing, Hotjar, Maze, A/B Testing
+• Tools & Frameworks Design: Figma, Sketch, Adobe XD, Principle
+• Methodologies: Agile/Scrum, Design Thinking, Double Diamond
